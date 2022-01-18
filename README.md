@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvampanigrahi123&" alt="suvampanigrahi123" /></p>
 
-<img align="center" src="https://drive.google.com/file/d/185KLpQH260nwtp6_yWrnwvd0zmS45H6z/view" alt="suvam panigrahi" height="30" width="40" />
+<!-- <img align="center" src="https://drive.google.com/file/d/185KLpQH260nwtp6_yWrnwvd0zmS45H6z/view" alt="suvam panigrahi" height="30" width="40" /> -->
